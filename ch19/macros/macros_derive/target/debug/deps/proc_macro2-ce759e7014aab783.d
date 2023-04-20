@@ -1,0 +1,12 @@
+/home/eddie/code/rust/book/ch19/macros/macros_derive/target/debug/deps/proc_macro2-ce759e7014aab783.rmeta: /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/lib.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/marker.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/parse.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/rcvec.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/detection.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/fallback.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/extra.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/wrapper.rs
+
+/home/eddie/code/rust/book/ch19/macros/macros_derive/target/debug/deps/proc_macro2-ce759e7014aab783.d: /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/lib.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/marker.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/parse.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/rcvec.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/detection.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/fallback.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/extra.rs /home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/wrapper.rs
+
+/home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/lib.rs:
+/home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/marker.rs:
+/home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/parse.rs:
+/home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/rcvec.rs:
+/home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/detection.rs:
+/home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/fallback.rs:
+/home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/extra.rs:
+/home/eddie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/wrapper.rs:
